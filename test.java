@@ -6,5 +6,6 @@ public class test {
         p.hello();
         SOT s= new SOT();
         System.out.println(s.Sum(12,13));
+
     }
 }
